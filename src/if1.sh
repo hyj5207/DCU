@@ -1,6 +1,6 @@
 #!/bin/sh
 if[ "cook" = "cook" ]
-	ithen
+	then
 	echo "참입니다"
-	if
+	fi
 		exit 0  
